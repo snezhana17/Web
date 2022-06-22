@@ -1,0 +1,74 @@
+Въпрос 1: HTML е съкращение за
+A) HyperText Markdown Language
+B) HyperText Markup Language
+C) HighText Markup Language
+D) HighlightText Markdown Language
+Верен отговор: B
+Вашият отговор: Неотговорен
+
+Въпрос 2: CSS е съкращение за
+A) Cascading Scandalous Sheets
+B) Collapsing Style Sheets
+C) Cascading Style Sheets
+D) Cascading Stylistic Sheets
+Верен отговор: C
+Вашият отговор: Неотговорен
+
+Въпрос 3: JS e съкращение за
+A) Java
+B) JavaScript
+C) Jar Jar Binks
+D) JavaSnake
+Верен отговор: B
+Вашият отговор: Неотговорен
+
+Въпрос 4: HTTPS е съкращение за
+A) Hypertext Transfer Protocol unSecure
+B) Hypertext Transfer Protocol Secure
+C) Hyper Transfer Protocol Secure
+D) Hypertext Transfer Protocol
+Верен отговор: B
+Вашият отговор: Неотговорен
+
+Въпрос 5: FTP е съкращение за
+A) File Transfer Protocol
+B) File Transfering Protocol
+C) Fixed Transfer Protocol
+D) File Transfering Proxy
+Верен отговор: A
+Вашият отговор: Неотговорен
+
+Въпрос 6: CD е съкращение за
+A) Compactable disc
+B) Compact disc
+C) Compressable disc
+D) Digital Versatile Disk
+Верен отговор: B
+Вашият отговор: Неотговорен
+
+Въпрос 7: FTP е съкращение за
+A) File Transfer Protocol
+B) File Transfering Protocol
+C) Fixed Transfer Protocol
+D) File Transfering Proxy
+Верен отговор: A
+Вашият отговор: A
+
+Въпрос 8: CD е съкращение за
+A) Compactable disc
+B) Compact disc
+C) Compressable disc
+D) Digital Versatile Disk
+Верен отговор: B
+Вашият отговор: B
+
+Въпрос 9: HTTPS е съкращение за
+A) Hypertext Transfer Protocol unSecure
+B) Hypertext Transfer Protocol Secure
+C) Hyper Transfer Protocol Secure
+D) Hypertext Transfer Protocol
+Верен отговор: B
+Вашият отговор: Неотговорен
+
+Резултат: 2 от 9
+Оценка: 22.22%

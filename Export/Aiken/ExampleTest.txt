@@ -1,0 +1,62 @@
+HTML е съкращение за
+A) HyperText Markdown Language
+B) HyperText Markup Language
+C) HighText Markup Language
+D) HighlightText Markdown Language
+ANSWER: B
+
+CSS е съкращение за
+A) Cascading Scandalous Sheets
+B) Collapsing Style Sheets
+C) Cascading Style Sheets
+D) Cascading Stylistic Sheets
+ANSWER: C
+
+JS e съкращение за
+A) Java
+B) JavaScript
+C) Jar Jar Binks
+D) JavaSnake
+ANSWER: B
+
+HTTPS е съкращение за
+A) Hypertext Transfer Protocol unSecure
+B) Hypertext Transfer Protocol Secure
+C) Hyper Transfer Protocol Secure
+D) Hypertext Transfer Protocol
+ANSWER: B
+
+FTP е съкращение за
+A) File Transfer Protocol
+B) File Transfering Protocol
+C) Fixed Transfer Protocol
+D) File Transfering Proxy
+ANSWER: A
+
+CD е съкращение за
+A) Compactable disc
+B) Compact disc
+C) Compressable disc
+D) Digital Versatile Disk
+ANSWER: B
+
+FTP е съкращение за
+A) File Transfer Protocol
+B) File Transfering Protocol
+C) Fixed Transfer Protocol
+D) File Transfering Proxy
+ANSWER: A
+
+CD е съкращение за
+A) Compactable disc
+B) Compact disc
+C) Compressable disc
+D) Digital Versatile Disk
+ANSWER: B
+
+HTTPS е съкращение за
+A) Hypertext Transfer Protocol unSecure
+B) Hypertext Transfer Protocol Secure
+C) Hyper Transfer Protocol Secure
+D) Hypertext Transfer Protocol
+ANSWER: B

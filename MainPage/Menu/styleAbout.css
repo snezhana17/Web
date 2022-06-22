@@ -1,0 +1,39 @@
+body {
+    display: block;
+    align-items: center;
+    text-align: center;
+    margin: 0 auto;
+    background-image: url("../images/aboutus.jpg");
+    background-position: center;
+    height: 1000px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.heading {
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    width: 500px;
+}
+
+#mainHeading {
+    margin-top: -350px;
+    margin-left: -250px;
+    font-size: 60px;
+}
+
+#heading {
+    margin-top: -150px;
+    margin-left: -250px;
+}
+
+.text {
+    top: 50%;
+    left: 50%;
+    margin-top: -80px;
+    margin-left: -250px;
+    position: absolute;
+    width: 500px;
+}
